@@ -28,6 +28,19 @@ SubMind helps you take control of your money by tracking all your subscriptions 
 - Easy, clean UI for personal finance management  
 
 ---
+## 🚀 Getting Started
+
+Using SubMind is easy:
+
+1. Open the website → https://submind.app  
+2. Add your subscriptions and recurring payments  
+3. Receive smart reminders before upcoming charges  
+4. Track your spending and see analytics  
+5. Save money by removing unused services  
+
+No installation required — SubMind works directly in your browser.
+
+---
 
 ## 💡 Why SubMind?
 People often forget about recurring subscription charges — and that can cost money.  
@@ -49,6 +62,20 @@ With SubMind you can:
 - Log monthly expenses and incomes  
 - View spending by category (entertainment, work, health, etc.)  
 - Analyze total spending over time  
+
+---
+
+## 🤖 Telegram Bot
+
+SubMind includes a Telegram bot to help you stay informed wherever you are.
+
+### Features:
+- Smart reminders before charges  
+- Daily/weekly spending analytics  
+- Quick access to your subscription list  
+- Instant alerts about renewals  
+
+Start the bot: Launch the bot via a web service
 
 ---
 
