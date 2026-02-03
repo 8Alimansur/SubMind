@@ -1,4 +1,17 @@
 # SubMind — Smart Subscription & Finance Manager 💸📊  
+
+<p align="left">
+  <a href="https://github.com/8Alimansur/SubMind/stargazers">
+    <img src="https://img.shields.io/github/stars/8Alimansur/SubMind?style=for-the-badge" alt="Stars" />
+  </a>
+  <a href="https://github.com/8Alimansur/SubMind/issues">
+    <img src="https://img.shields.io/github/issues/8Alimansur/SubMind?style=for-the-badge" alt="Issues" />
+  </a>
+  <a href="https://github.com/8Alimansur/SubMind/discussions">
+    <img src="https://img.shields.io/github/discussions/8Alimansur/SubMind?style=for-the-badge" alt="Discussions" />
+  </a>
+</p>
+
 https://submind.app
 
 SubMind helps you take control of your money by tracking all your subscriptions and recurring payments in one place. It reminds you of upcoming charges, analyzes your spending, and helps you spot unnecessary expenses so you save more.
