@@ -80,7 +80,14 @@ Start the bot: Launch the bot via a web service
 ---
 
 ## 📸 Screenshots  
-Place your UI screenshots in the `/screenshots` folder to show how SubMind works visually.
+<p align="center">
+  <img src="screenshots/1.png" width="48%" />
+  <img src="screenshots/2.png" width="48%" />
+</p>
+
+<p align="center">
+  <img src="screenshots/3.png" width="48%" />
+</p>
 
 ---
 
